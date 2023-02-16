@@ -9,10 +9,12 @@ Schedule-generator is a program written on Python that generates a schedule of s
 Inputs:
 
 * Shift Definition and Coverage
+  * Flexibility to modify shifts
 * Number of Employees
 
 ### External libraries used:
 
+None yet
 
 ## References
 
